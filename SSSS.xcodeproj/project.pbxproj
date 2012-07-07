@@ -18,6 +18,7 @@
 		8571FE2115A869D100B79251 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8571FE0815A869D000B79251 /* Foundation.framework */; };
 		8571FE2915A869D100B79251 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8571FE2715A869D100B79251 /* InfoPlist.strings */; };
 		8571FE2C15A869D100B79251 /* SSSSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8571FE2B15A869D100B79251 /* SSSSTests.m */; };
+		8571FE3715A86CEA00B79251 /* s.m in Sources */ = {isa = PBXBuildFile; fileRef = 8571FE3615A86CEA00B79251 /* s.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		8571FE2815A869D100B79251 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8571FE2A15A869D100B79251 /* SSSSTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSSSTests.h; sourceTree = "<group>"; };
 		8571FE2B15A869D100B79251 /* SSSSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSSSTests.m; sourceTree = "<group>"; };
+		8571FE3515A86CEA00B79251 /* s.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = s.h; sourceTree = "<group>"; };
+		8571FE3615A86CEA00B79251 /* s.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = s.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 			children = (
 				8571FE1515A869D000B79251 /* AppDelegate.h */,
 				8571FE1615A869D000B79251 /* AppDelegate.m */,
+				8571FE3515A86CEA00B79251 /* s.h */,
+				8571FE3615A86CEA00B79251 /* s.m */,
 				8571FE0D15A869D000B79251 /* Supporting Files */,
 			);
 			path = SSSS;
@@ -250,6 +255,7 @@
 			files = (
 				8571FE1315A869D000B79251 /* main.m in Sources */,
 				8571FE1715A869D000B79251 /* AppDelegate.m in Sources */,
+				8571FE3715A86CEA00B79251 /* s.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
