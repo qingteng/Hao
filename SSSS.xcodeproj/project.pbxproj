@@ -35,17 +35,17 @@
 		8571FE0615A869D000B79251 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8571FE0815A869D000B79251 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8571FE0A15A869D000B79251 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		8571FE0E15A869D000B79251 /* SSSS-Info.plist */ = {isa = PBXFileReference; path = "SSSS-Info.plist"; sourceTree = "<group>"; };
+		8571FE0E15A869D000B79251 /* SSSS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SSSS-Info.plist"; sourceTree = "<group>"; };
 		8571FE1015A869D000B79251 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8571FE1215A869D000B79251 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8571FE1415A869D000B79251 /* SSSS-Prefix.pch */ = {isa = PBXFileReference; path = "SSSS-Prefix.pch"; sourceTree = "<group>"; };
-		8571FE1515A869D000B79251 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		8571FE1415A869D000B79251 /* SSSS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SSSS-Prefix.pch"; sourceTree = "<group>"; };
+		8571FE1515A869D000B79251 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8571FE1615A869D000B79251 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8571FE1D15A869D100B79251 /* SSSSTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SSSSTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8571FE1E15A869D100B79251 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		8571FE2615A869D100B79251 /* SSSSTests-Info.plist */ = {isa = PBXFileReference; path = "SSSSTests-Info.plist"; sourceTree = "<group>"; };
+		8571FE2615A869D100B79251 /* SSSSTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SSSSTests-Info.plist"; sourceTree = "<group>"; };
 		8571FE2815A869D100B79251 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		8571FE2A15A869D100B79251 /* SSSSTests.h */ = {isa = PBXFileReference; path = SSSSTests.h; sourceTree = "<group>"; };
+		8571FE2A15A869D100B79251 /* SSSSTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SSSSTests.h; sourceTree = "<group>"; };
 		8571FE2B15A869D100B79251 /* SSSSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SSSSTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
